@@ -1,4 +1,4 @@
-# ☁️ Cloud Fundamentals – Day 1
+# ☁️ Cloud Fundamentals
 
 ---
 
